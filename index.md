@@ -6,12 +6,14 @@ Step 1: Downloading Visual Studio Code
 * Step 1
 * Step 2
 * Step 3
+
 Step 2: Connecting to the Remote Server
 ---
 ![Image](server.png)
 * Step 1
 * Step 2
 * Step 3
+
 Step 3: Running Commands in the Terminal
 ---
 ![Image](commands.png)
