@@ -1,7 +1,7 @@
 ## Lab Report 1
 ---
 
-Step 1: Downloading Visual Studio Code
+Step 1: Installing Visual Studio Code
 ---
 ![Image](vsc.png)
 * Step 1
