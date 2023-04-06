@@ -1,6 +1,5 @@
 ## Lab Report 1
 ---
-
 Step 1: Downloading Visual Studio Code
 ---
 ![Image](vsc.png)
