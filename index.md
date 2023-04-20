@@ -22,3 +22,7 @@ Step 3: Running Commands in the Terminal
 * Try some commands in the command line to get yourself familiar
 * Test multiple cases that seem different from the standard to see how the command line reacts
 * Some commands include cd, ls, pwd, mkdir, and cp
+* Some examples of what the commands do are cd and mkdir which can be seen in the examples above. 
+* cd is short for change directory, it helps us move in and out of directories. cd can be used to go into a directory by typing the path after cd showing where the file is relative to the current directory. cd can also be used to move out a directory by using cd ..
+* mkdir is short for make directory, which does exactly as its said, it creates a new directory within your working directory. In the example above mkdir is used to create the new directory hello.
+* By using a combination of different command line commands it helps us navigate, make, delete, and list information by using the command line.
